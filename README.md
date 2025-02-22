@@ -23,7 +23,7 @@ Expense Trackey is a free & personal finance tracker. I will launch on 26 Februa
 ## About App
 
 - Income & Expense Tracking: Record your daily, weekly, or monthly income and expenses with ease. Categorize your spending for better organization.
-- Set monthly or weekly budgets and track your progress towards financial goals. Stay on top of your spending limits and make smarter choices.
+- Set daily, weekly, monthly and yearly budgets and track your progress towards financial goals. Stay on top of your spending limits and make smarter choices.
 - Never forget a payment again. Set up recurring transactions like subscriptions, bills, and memberships.
 -  Get timely reminders for upcoming bills and payments so you can stay ahead of due dates
 -  Add multiple wallets (bank, cash, digital, etc.) and track your balances in one place
