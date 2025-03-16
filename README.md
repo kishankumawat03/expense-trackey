@@ -14,20 +14,20 @@ Effortlessly track your income and expenses with 100% free app & without any ads
 <p align="center">
   <img src="./screenshots/4.png" height="500" />
   <img src="./screenshots/5.png" height="500" />
-  <img src="./screenshots/6.png" height="500" />
+  <img src="./screenshots/6.jpg" height="500" />
 </p>
 
 
 
 ## About App
 
-- Income & Expense Tracking: Record your daily, weekly, or monthly income and expenses with ease. Categorize your spending for better organization.
-- Set daily, weekly, monthly and yearly budgets and track your progress towards financial goals.
-- Never forget a payment again. Set up recurring transactions like subscriptions, bills, and memberships.
-- Get timely reminders for upcoming bills and payments so you can stay ahead of due dates
-- Add multiple wallets (bank, cash, digital, etc.) and track your balances in one place
-- Keep your financial data secure with biometric authentication (Face ID/Touch ID) or a password for extra privacy
-- Seamlessly import and export your financial data for easy backup or sharing with others
+- Track Your Finances with Ease: Effortlessly record your daily, weekly, or monthly income and expenses. Categorize every transaction for better clarity and control.
+- Set Financial Goals: Establish daily, weekly, monthly, and yearly budgets, and monitor your progress towards achieving your financial aspirations.
+- Never Miss a Payment: Automate your recurring payments like bills, subscriptions, and memberships, ensuring you're always on time.
+- Stay Ahead with Reminders: Get timely notifications for upcoming bills and payments to avoid any late fees.
+- Manage Multiple Wallets: Add various accounts—bank, cash, digital wallets—and view all your balances in one convenient location.
+- Enhanced Security: Protect your financial information with biometric authentication (Face ID/Touch ID) or a secure password for added privacy.
+- Effortless Data Backup: Easily import and export your financial data for seamless backup or sharing when necessary.
 
 
 ## How to help
