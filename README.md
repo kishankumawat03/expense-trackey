@@ -1,7 +1,7 @@
 # Expense Trackey
 
 
-Effortlessly track your income and expenses with 100% free app & without any ads. Stay organized and take control of your financial goals. [Download Expense Trackey on the App Store.](https://apps.apple.com/sg/app/)
+Effortlessly track your income and expenses with 100% free app & without any ads. Stay organized and take control of your financial goals. [Download Expense Trackey on the App Store.](https://apps.apple.com/sg/app/id6739773550)
 
 ## App Preview
 
